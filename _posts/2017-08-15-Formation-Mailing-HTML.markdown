@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2017-08-15
 img: html5.png
-screenimg: html5.png
+screenimg: Mailings.png
 alt: image-alt
 project-date: August 2017
 category: Formation HTML

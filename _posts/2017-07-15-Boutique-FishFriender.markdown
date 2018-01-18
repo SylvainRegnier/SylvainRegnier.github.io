@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2017-07-15
 img: fflogo.png
-screenimg: github.png
+screenimg: Boutiqueff.png
 alt: image-alt
 project-date: July 2017
 client: Fishfriender

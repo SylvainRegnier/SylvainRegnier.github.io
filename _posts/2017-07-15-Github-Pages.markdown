@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2018-01-15
 img: github.png
-screenimg: github.png
+screenimg: Portfolio.png
 alt: image-alt
 project-date: January 2018
 category: Portfolio
