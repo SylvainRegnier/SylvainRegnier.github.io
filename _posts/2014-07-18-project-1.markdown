@@ -2,11 +2,11 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: fflogo.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+project-date: Juillet 2017
+client: Fishfriender
+category: Site de e-commerce
+description: Boutique Shopify pour <a href="https://shop.fishfriender.com/">Fishfriender</a>, une startup française qui gère un réseau social. Visitez la boutique en cliquant <a href="https://shop.fishfriender.com/">ICI!</a> Obtenez votre e-boutique en <a style="font-weight: bold;">3 JOURS!</a> Contactez-moi pour un devis <a style="font-weight: bold;">gratuit!</a>
 
 ---
