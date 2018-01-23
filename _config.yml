@@ -43,6 +43,9 @@ social:
   #  url: http://twitter.com/jekyllrb
   - title: github
     url: http://github.com/SylvainRegnier
+  - title: linkedin
+    url: https://www.linkedin.com/in/sylvain-regnier-b334b7122/
+
 
 # Postal address (add as many lines as necessary)
 

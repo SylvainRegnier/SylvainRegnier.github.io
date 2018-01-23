@@ -1,5 +1,8 @@
 ---
 layout: default
+hashtag1: Mailing
+hashtag2: Formation
+hashtag3: HTML
 modal-id: 2
 date: 2017-08-15
 img: html5.png

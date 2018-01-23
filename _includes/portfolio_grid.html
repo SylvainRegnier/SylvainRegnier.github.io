@@ -19,6 +19,20 @@
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
+                        <div style="text-align: center;
+                              	font-weight: bold;
+                              	word-spacing: 10px;
+                              	font-size: medium;">
+                                {% if post.hashtag1 %}
+                                    <p>#{{ post.hashtag1 }} </p>
+                                {% endif %}
+                                {% if post.hashtag2 %}
+                                    <p>#{{ post.hashtag2 }} </p>
+                                {% endif %}
+                                {% if post.hashtag3 %}
+                                    <p>#{{ post.hashtag3 }} </p>
+                                {% endif %}
+                        </div>
                     </div>
                 {% endfor %}
             </div>

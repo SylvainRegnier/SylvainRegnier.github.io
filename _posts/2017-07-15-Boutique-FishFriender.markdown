@@ -1,5 +1,8 @@
 ---
 layout: default
+hashtag1: E-Boutique
+hashtag2: Startup
+hashtag3: E-Commerce
 modal-id: 1
 date: 2017-07-15
 img: fflogo.png

@@ -13,8 +13,11 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
-                            <hr class="star-primary">
+                            <hr style="border-top: 10px double #141725; width: 34%">
                             <img src="img/portfolio/{{ post.screenimg }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+
+                            <hr style="border-top: 10px double #141725; width: 34%">
+
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
                             {% endif %}
